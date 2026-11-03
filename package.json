@@ -1,0 +1,1 @@
+{"name":"tokokilat-ofat-ets","version":"1.0.0","description":"Starter backend ETS Web Scalability - OFAT","main":"server.js","scripts":{"start":"node server.js","test":"node test-smoke.js","loadtest":"node load-test.js"},"engines":{"node":">=18"}}
